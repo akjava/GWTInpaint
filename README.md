@@ -7,6 +7,6 @@ https://github.com/antimatter15/inpaint.js
 http://android.akjava.com/html5apps/inpaint.html
 
 ##History
-150706.jar - build with GWT2.5.1 & Guava 1.8
+150706.jar - build with GWT2.6.1 & Guava 1.8
 
 140512.jar - build with GWT2.5.1 & Guava 1.6 based
