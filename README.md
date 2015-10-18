@@ -1,5 +1,7 @@
 #Inpaint.js wrapper for GWT(Java)
 
+merged to https://github.com/akjava/akjava_gwtlib
+
 ##Original Inpaint.js is here
 https://github.com/antimatter15/inpaint.js
 
